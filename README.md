@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramaalfin
 - 👀 I’m interested in Machine Learning and Front End and Back End Developer
-- 🌱 I’m currently learning Front End and Back End Developer in Dicoding and BuildWith Angga, and i'm learning ML in DqLab
+- 🌱 I’m currently learning Front End and Back End Developer in Dicoding and BuildWith Angga, and now, i'm learning ML in DqLab
 - 📫 How to reach me ? contact to my gmail ramaalfin7@gmail.com
 
 <!---
