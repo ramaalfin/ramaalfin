@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ramaalfin
-- 👀 I’m interesting about Machine Learning, and Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, MySql, and Laravel (Framework PHP)
-- 📫 How to reach me ? contact to my gmail ramaalfin7@gmail.com
+- 👋 Hi, I’m Alfin, My full name is Rama Alfin Baehaqi
+- 🌱 I’m currently learning Laravel
+- 📫 How to reach me? contact to my gmail ramaalfin7@gmail.com or DM me on IG @ramaalfin
 
 <!---
 ramaalfin/ramaalfin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
