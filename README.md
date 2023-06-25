@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfin, My full name is Rama Alfin Baehaqi
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, next i will learn consume the API with Vue JS
 - 📫 How to reach me? contact to my gmail ramaalfin7@gmail.com or DM me on IG @ramaalfin
 
 <!---
