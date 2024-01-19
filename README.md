@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfin, My full name is Rama Alfin Baehaqi
-- 🌱 I’m currently learning Laravel, next i will learn how to consume the API with React JS
+- 🌱 I’m currently learning Laravel 10 and Next JS. Next i will learn about Next Js, prisma ORM, MySQL/Postgres, nextauth.js
 - 📫 How to reach me? contact to my gmail ramaalfin7@gmail.com or DM me on IG @ramaalfin
 
 <!---
