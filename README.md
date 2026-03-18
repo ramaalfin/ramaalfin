@@ -2,7 +2,7 @@
 
 ## Happy Front-End Engineer
 
-Front-End Engineer with 2+ years of experience building production-grade web and mobile applications using React, Next.js, and React Native. Experienced in rendering(SSR/CSR/SSG), authentication flows, payment integration, and complex state management. Strong focus on performance, maintainability, and real-world business logic.
+Front-End Engineer with 2 years of experience building production-grade web and mobile applications using React, Next.js, and React Native. Experienced in rendering(SSR/CSR/SSG), authentication flows, payment integration, and complex state management. Strong focus on performance, maintainability, and real-world business logic.
 
 - 🌍 I'm based in Indonesia
 - 🖥️ See my portfolio at [here](http://baehaqi.netlify.app)
