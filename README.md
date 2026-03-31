@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rama Alfin
 
-## Happy Front-End Engineer
+## Front-End enjoyer
 
 Front-End Engineer with 2++ years of experience building production-grade web and mobile applications using React, Next.js, and React Native. Experienced in rendering(SSR/CSR/SSG), authentication flows, payment integration, and complex state management. Strong focus on performance, maintainability, and real-world business logic.
 
