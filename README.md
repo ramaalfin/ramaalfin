@@ -1,19 +1,150 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rama Alfin
+# Hi, I'm Rama 👋
 
-## Front-End enjoyer
+Frontend Engineer focused on performance, scalability, and real-time systems.
 
-Front-End Engineer with 2++ years of experience building production-grade web and mobile applications using React, Next.js, and React Native. Experienced in rendering(SSR/CSR/SSG), authentication flows, payment integration, web socket, and complex state management. Strong focus on performance, maintainability, and real-world business logic.
+---
 
-- 🌍 I'm based in Indonesia
-- 🖥️ See my portfolio at [here](http://baehaqi.netlify.app)
-- ✉️ You can contact me at [ramaalfin7@gmail.com](mailto:ramaalfin7@gmail.com)
-- 🧠 I'm currently learning React Native And Go
+## 🚀 About Me
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-</p>
+* Frontend Engineer with 2+ years of experience building **production-grade web & mobile apps**
+* Specialized in **React, Next.js, TypeScript**
+* Strong focus on:
 
-### Socials
+  * Performance (Core Web Vitals, Lighthouse 95+)
+  * Scalable architecture (feature-based, reusable components)
+  * Real-time systems (WebSocket, Socket.IO)
+* Experience delivering **end-to-end fullstack systems**
 
-<p align="left"> <a href="https://www.github.com/ramaalfin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/ramaalfin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="http://www.medium.com/@ramaalfin7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/rama-alfin-baehaqi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
 
+## 🧠 What I Do
+
+* Build fast, scalable frontend applications
+* Design clean and maintainable architectures
+* Optimize performance & user experience
+* Integrate complex APIs & real-time features
+* Develop cross-platform mobile apps
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+* React, Next.js (App & Pages Router)
+* TypeScript, JavaScript
+* Tailwind CSS, Responsive Design
+
+### State & Data
+
+* TanStack Query (React Query)
+* Redux Toolkit, Zustand
+
+### Backend & API
+
+* Node.js, Express.js
+* REST API, JWT Auth
+
+### Real-time
+
+* Socket.IO, WebSocket
+
+### Mobile
+
+* React Native, Expo
+
+### Tools
+
+* Git, Vercel, Postman, Figma
+* Vitest, React Testing Library
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔥 HeyHao — Real-Time Community Platform
+
+* Fullstack app (React + Node.js + PostgreSQL)
+* Real-time chat with **<50ms latency (1,000+ users)**
+* Revenue analytics dashboard
+* JWT auth with refresh token system
+
+**Key Highlights**
+
+* WebSocket + TanStack Query sync (no manual refetch)
+* 100% TypeScript coverage
+* ~45% query performance improvement
+
+---
+
+### 📱 HeyHao Mobile App
+
+* Cross-platform app (iOS & Android)
+* 50+ screens built with React Native
+* Real-time chat + analytics dashboard
+
+**Key Highlights**
+
+* Reduced API calls by ~60% using caching strategy
+* Modular architecture with custom hooks
+* Optimized performance for large datasets
+
+---
+
+### 🌐 Fiberzone — ISP Platform
+
+* Built with Next.js (SSR + CSR hybrid)
+* Improved Lighthouse score **72 → 95+**
+* Reduced load time by ~35%
+
+**Key Highlights**
+
+* Dynamic pricing engine
+* Payment gateway integration
+* SEO optimization with structured data
+
+---
+
+### 🧩 Hiring Management System
+
+* Multi-role recruitment platform
+* Dynamic form builder (schema-driven UI)
+
+**Key Highlights**
+
+* Zero hardcoded form fields
+* 10x database performance improvement
+* Magic link authentication
+
+---
+
+## 📊 Engineering Focus
+
+* Performance Optimization (LCP, CLS, FID)
+* Real-time Architecture
+* Clean Code & Scalability
+* Security (XSS, CSRF, JWT)
+* Developer Experience
+
+---
+
+## 📈 Stats & Impact
+
+* Lighthouse score improved to **95+**
+* Load time reduced by **~35%**
+* Query performance improved by **10x**
+* API calls reduced by **~60%**
+* Real-time latency **<50ms**
+
+---
+
+## 📫 Contact
+
+* Email: [ramaalfin7@gmail.com](mailto:ramaalfin7@gmail.com)
+* LinkedIn: linkedin.com/in/rama-alfin-baehaqi
+
+---
+
+## 💡 Philosophy
+
+> Build systems that scale, perform, and remain maintainable — not just features that work.
