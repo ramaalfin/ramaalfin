@@ -7,13 +7,19 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 ## 🚀 About Me
 
 * Frontend Engineer with 2+ years of experience building **production-grade web & mobile apps**
-* Specialized in **React, Next.js, TypeScript**
+* Specialized in **React, Next.js, TypeScript, React Native**
 * Strong focus on:
 
   * Performance (Core Web Vitals, Lighthouse 95+)
   * Scalable architecture (feature-based, reusable components)
   * Real-time systems (WebSocket, Socket.IO)
 * Experience delivering **end-to-end fullstack systems**
+
+---
+
+## 🚀 On Going
+* Learn all rendering in next js
+* Curiosity about KMP (Kotlin Multi Platform)
 
 ---
 
