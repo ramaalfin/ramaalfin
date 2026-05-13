@@ -19,7 +19,7 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 
 ## 🚀 On Going
 * Learn all rendering in next js
-* Curiosity about KMP (Kotlin Multi Platform)
+* Curiosity about React Native
 
 ---
 
