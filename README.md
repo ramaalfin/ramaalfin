@@ -19,7 +19,7 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 
 ## 🚀 On Going
 * Learn all rendering in Next.js
-* Curiosity about React Native
+* Curiosity about React Native, Vue, and Nuxt.js
 * Create study plan to level up skill
 
 ---
