@@ -38,7 +38,7 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 
 ### Frontend
 
-* React, Next.js (App & Pages Router)
+* React, Next.js
 * TypeScript, JavaScript
 * Tailwind CSS, Responsive Design
 
