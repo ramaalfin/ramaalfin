@@ -1,4 +1,4 @@
-# Hi, I'm Rama 👋
+# Hi, I'm Rama Alfin 👋
 
 Frontend Engineer focused on performance, scalability, and real-time systems.
 
