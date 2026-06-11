@@ -1,4 +1,4 @@
-# Hi, I'm Rama Alfin 👋
+# Hi, I'm Rama Alfin Baehaqi 👋
 
 Frontend Engineer focused on performance, scalability, and real-time systems.
 
@@ -32,6 +32,7 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 * Optimize performance & user experience
 * Integrate complex APIs & real-time features
 * Develop cross-platform mobile apps
+* Gym 2 days of week
 
 ---
 
