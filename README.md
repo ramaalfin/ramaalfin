@@ -21,7 +21,7 @@ Frontend Engineer focused on performance, scalability, and real-time systems.
 * Curiosity about React Native, Vue, and Nuxt.js
 * Create study plan to level up skill
 * Create Agents
-* Curios about opencode go
+* Curios about opencode go and deepseek 
 
 ---
 
